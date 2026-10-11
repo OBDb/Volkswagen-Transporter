@@ -1,0 +1,6 @@
+command_id: 7E1.7E9.221118
+test_cases:
+- expected_values:
+    TRANSPORTER_PQ35_CLUTCH_1_MAXIMUM_T: 163
+    TRANSPORTER_PQ35_CLUTCH_2_MAXIMUM_T: 157
+  response: 7E907621118A3009D00

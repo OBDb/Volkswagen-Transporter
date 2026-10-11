@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    TRANSPORTER_CLR_DIST: 135
+  response: 7E80562F4310087
+- expected_values:
+    TRANSPORTER_CLR_DIST: 9727
+  response: 7E80562F43125FF
+- expected_values:
+    TRANSPORTER_CLR_DIST: 9728
+  response: 7E80562F4312600
+- expected_values:
+    TRANSPORTER_CLR_DIST: 14331
+  response: 7E80562F43137FB

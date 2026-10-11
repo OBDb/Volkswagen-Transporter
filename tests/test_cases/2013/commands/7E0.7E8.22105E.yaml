@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22105E
+test_cases:
+- expected_values:
+    TRANSPORTER_PQ35_BAT_V_2: 14.4
+  response: 7E80562105E02D0

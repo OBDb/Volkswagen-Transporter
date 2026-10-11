@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F430
+test_cases:
+- expected_values:
+    TRANSPORTER_WARM_UPS: 9
+  response: 7E80462F43009
+- expected_values:
+    TRANSPORTER_WARM_UPS: 167
+  response: 7E80462F430A7
+- expected_values:
+    TRANSPORTER_WARM_UPS: 255
+  response: 7E80462F430FF

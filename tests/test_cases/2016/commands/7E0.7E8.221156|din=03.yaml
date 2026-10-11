@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221156|din=03
+test_cases:
+- expected_values:
+    TRANSPORTER_PQ35_DIST_LAST_REGEN: 0.241
+  response: 7E807621156000000F1
+- expected_values:
+    TRANSPORTER_PQ35_DIST_LAST_REGEN: 11.009
+  response: 7E80762115600002B01
+- expected_values:
+    TRANSPORTER_PQ35_DIST_LAST_REGEN: 28.158
+  response: 7E80762115600006DFE
+- expected_values:
+    TRANSPORTER_PQ35_DIST_LAST_REGEN: 257.083
+  response: 7E8076211560003EC3B
+- expected_values:
+    TRANSPORTER_PQ35_DIST_LAST_REGEN: 340.487
+  response: '7E80762115600053207'

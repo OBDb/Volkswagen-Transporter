@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221044|din=03
+test_cases:
+- expected_values:
+    TRANSPORTER_DPF_SFC_T: 210
+  response: 7E80562104412DF

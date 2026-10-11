@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2214C7
+test_cases:
+- expected_values:
+    TRANSPORTER_PQ35_PRE_INJ_1_START: 4.3
+  response: 7E8056214C700D7

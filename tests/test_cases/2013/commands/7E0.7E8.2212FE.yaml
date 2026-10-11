@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2212FE
+test_cases:
+- expected_values:
+    TRANSPORTER_PQ35_CAMS_ADAPT_PHASE_1: -1.56
+  response: 7E8056212FEFFB2

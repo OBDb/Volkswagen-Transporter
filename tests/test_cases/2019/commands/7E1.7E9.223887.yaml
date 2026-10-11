@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.223887
+test_cases:
+- expected_values:
+    TRANSPORTER_MQB_TCM_ODO_2: 201337
+  response: 7E907623887BAB81E00
+- expected_values:
+    TRANSPORTER_MQB_TCM_ODO_2: 201106.7
+  response: 7E907623887BBAF1E00

@@ -1,0 +1,5 @@
+command_id: 746.7B0.222609|fc=1
+test_cases:
+- expected_values:
+    TRANSPORTER_AAT: 30
+  response: 7B0046226093C

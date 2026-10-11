@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22115A
+test_cases:
+- expected_values:
+    TRANSPORTER_PQ35_DPF_FUEL_CON_REGEN: 0.62
+  response: 7E80562115A003E

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222AE1
+test_cases:
+- expected_values:
+    TRANSPORTER_MQB_EXHAUST_GAS_RECIRCULATION_2_FILTER_P_LOSS_MODELED: 0.1
+  response: 7E805622AE11389

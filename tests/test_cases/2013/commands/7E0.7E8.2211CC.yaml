@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211CC
+test_cases:
+- expected_values:
+    TRANSPORTER_BOOST_REGULATOR_FEEDBACK: 81.65
+  response: 7E8056211CC1FE5

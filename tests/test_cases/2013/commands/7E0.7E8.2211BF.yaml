@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211BF
+test_cases:
+- expected_values:
+    TRANSPORTER_PQ35_FUEL_P_REG: 17.76
+  response: 7E8056211BF06F0

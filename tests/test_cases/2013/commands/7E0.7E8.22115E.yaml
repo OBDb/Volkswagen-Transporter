@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22115E
+test_cases:
+- expected_values:
+    TRANSPORTER_PQ35_TIME_LAST_REGEN: 9.0993377480430686e-08
+  response: 7E80762115E00000394

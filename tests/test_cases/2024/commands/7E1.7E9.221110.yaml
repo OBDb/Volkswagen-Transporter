@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221110
+test_cases:
+- expected_values:
+    TRANSPORTER_PQ35_WORKING_HOURS: 295.12023
+  response: 7E9076211106A922A03

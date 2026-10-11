@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22295A
+test_cases:
+- expected_values:
+    TRANSPORTER_ODO: 199198
+  response: 7E80662295A030A1E
+- expected_values:
+    TRANSPORTER_ODO: 199430
+  response: 7E80662295A030B06

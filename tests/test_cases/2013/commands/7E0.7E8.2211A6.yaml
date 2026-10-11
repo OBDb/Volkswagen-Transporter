@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211A6
+test_cases:
+- expected_values:
+    TRANSPORTER_PQ35_LIM_ACCEL_PED: 64.5
+  response: 7E8056211A60285

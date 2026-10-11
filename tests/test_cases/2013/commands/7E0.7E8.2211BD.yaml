@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2211BD
+test_cases:
+- expected_values:
+    TRANSPORTER_OIL_LEVEL_WARN: 0
+  response: 7E8056211BD0000
+- expected_values:
+    TRANSPORTER_OIL_LEVEL_WARN: 2.7644
+  response: 7E8056211BD1AFF
+- expected_values:
+    TRANSPORTER_OIL_LEVEL_WARN: 3.2464
+  response: 7E8056211BD1FB4

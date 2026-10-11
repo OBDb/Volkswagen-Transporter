@@ -1,0 +1,11 @@
+command_id: 746.7B0.22260A|fc=1
+test_cases:
+- expected_values:
+    TRANSPORTER_OUTSIDE_T_SYSTEM: 57
+  response: 7B00462260A72
+- expected_values:
+    TRANSPORTER_OUTSIDE_T_SYSTEM: 57.5
+  response: 7B00462260A73
+- expected_values:
+    TRANSPORTER_OUTSIDE_T_SYSTEM: 58
+  response: 7B00462260A74

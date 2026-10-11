@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22121E
+test_cases:
+- expected_values:
+    TRANSPORTER_SPEC_VALUE_RAIL_P: 0
+  response: 7E80562121E0000
+- expected_values:
+    TRANSPORTER_SPEC_VALUE_RAIL_P: 1612700
+  response: 7E80562121E3EFF
+- expected_values:
+    TRANSPORTER_SPEC_VALUE_RAIL_P: 1717900
+  response: 7E80562121E431B

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221146
+test_cases:
+- expected_values:
+    TRANSPORTER_MISFIRES_TOTAL: 3116
+  response: 7E8056211460C2C

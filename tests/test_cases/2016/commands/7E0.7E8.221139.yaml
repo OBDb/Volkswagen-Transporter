@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221139
+test_cases:
+- expected_values:
+    TRANSPORTER_MEAN_INJ_QUANTITY: 0
+  response: '7E8056211390000'
+- expected_values:
+    TRANSPORTER_MEAN_INJ_QUANTITY: 2.55
+  response: 7E80562113900FF
+- expected_values:
+    TRANSPORTER_MEAN_INJ_QUANTITY: 46.6
+  response: '7E8056211391234'

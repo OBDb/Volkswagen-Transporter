@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F41F
+test_cases:
+- expected_values:
+    TRANSPORTER_RUNTM: 59
+  response: 7E80562F41F003B
+- expected_values:
+    TRANSPORTER_RUNTM: 60
+  response: 7E80562F41F003C
