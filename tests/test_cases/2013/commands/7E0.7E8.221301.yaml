@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221301
+test_cases:
+- expected_values:
+    TRANSPORTER_PQ35_LIM_SMOKE: 85.1
+  response: '7E8056213010353'

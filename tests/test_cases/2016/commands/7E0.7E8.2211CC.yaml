@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211CC
+test_cases:
+- expected_values:
+    TRANSPORTER_BOOST_REGULATOR_FEEDBACK: 38.81
+  response: 7E8056211CC0F29
+- expected_values:
+    TRANSPORTER_BOOST_REGULATOR_FEEDBACK: 76.8
+  response: 7E8056211CC1E00
+- expected_values:
+    TRANSPORTER_BOOST_REGULATOR_FEEDBACK: 79.33
+  response: 7E8056211CC1EFD
+- expected_values:
+    TRANSPORTER_BOOST_REGULATOR_FEEDBACK: 0
+  response: 7E8056211CCFFFC

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22100C
+test_cases:
+- expected_values:
+    TRANSPORTER_PQ35_FUEL_LVL_2: 61
+  response: 7E80562100C17D4

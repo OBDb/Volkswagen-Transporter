@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F442
+test_cases:
+- expected_values:
+    TRANSPORTER_VPWR: 13.267
+  response: 7E80562F44233D3
+- expected_values:
+    TRANSPORTER_VPWR: 13.705
+  response: 7E80562F4423589

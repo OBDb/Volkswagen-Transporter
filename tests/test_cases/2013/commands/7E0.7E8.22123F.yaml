@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22123F
+test_cases:
+- expected_values:
+    TRANSPORTER_PQ35_OIL_DYN_AVG: 131.068
+  response: 7E80562123F7FFF

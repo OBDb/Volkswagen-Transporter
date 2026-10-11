@@ -1,0 +1,16 @@
+references:
+  - "https://en.wikipedia.org/wiki/Volkswagen_Transporter"
+
+generations:
+  - name: "T4"
+    start_year: 1990
+    end_year: 2003
+    description: "The first front-engined Transporter, with gasoline and TDI engines."
+  - name: "T5"
+    start_year: 2003
+    end_year: 2015
+    description: "With TDI diesels, TSI gasoline engines and the DSG from 2009."
+  - name: "T6 and T6.1"
+    start_year: 2015
+    end_year: null
+    description: "A revised T5 with 2.0 TDI and TSI engines."

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221628
+test_cases:
+- expected_values:
+    TRANSPORTER_PQ35_INTERCOOLER_AIR_OUTPUT_T: 36.3
+  response: 7E8056216280C16

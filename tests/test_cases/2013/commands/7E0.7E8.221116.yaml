@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221116
+test_cases:
+- expected_values:
+    TRANSPORTER_PQ35_COOL_FAN_1_DUTY: 19.74
+  response: 7E80562111607B6

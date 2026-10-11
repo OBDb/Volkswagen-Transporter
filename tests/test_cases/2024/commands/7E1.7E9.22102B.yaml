@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22102B
+test_cases:
+- expected_values:
+    TRANSPORTER_PQ35_CLUTCH_1_T: 20
+  response: 7E90562102B1400

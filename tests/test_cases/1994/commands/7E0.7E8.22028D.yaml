@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22028D
+test_cases:
+- expected_values:
+    TRANSPORTER_ENG_CTRL_MODULE_T: 287.6
+  response: 7E80562028D0B3C
+- expected_values:
+    TRANSPORTER_ENG_CTRL_MODULE_T: 288.6
+  response: 7E80562028D0B46

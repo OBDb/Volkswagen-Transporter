@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211BC
+test_cases:
+- expected_values:
+    TRANSPORTER_PQ35_OIL_LVL: 52.136
+  response: 7E8056211BC32EA

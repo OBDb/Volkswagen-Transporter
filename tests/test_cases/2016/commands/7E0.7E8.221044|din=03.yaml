@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221044|din=03
+test_cases:
+- expected_values:
+    TRANSPORTER_DPF_SFC_T: 15.1
+  response: 7E8056210440B42
+- expected_values:
+    TRANSPORTER_DPF_SFC_T: 135.9
+  response: 7E8056210440FFA
+- expected_values:
+    TRANSPORTER_DPF_SFC_T: 469.8
+  response: 7E8056210441D05
+- expected_values:
+    TRANSPORTER_DPF_SFC_T: 544.5
+  response: 7E8056210441FF0

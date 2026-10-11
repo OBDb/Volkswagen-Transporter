@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.222006
+test_cases:
+- expected_values:
+    TRANSPORTER_PQ35_OIL_FILL_LEVEL: 852.96
+  response: '7E8056220063788'
+- expected_values:
+    TRANSPORTER_PQ35_OIL_FILL_LEVEL: 866.16
+  response: '7E8056220063864'
+- expected_values:
+    TRANSPORTER_PQ35_OIL_FILL_LEVEL: 1143.96
+  response: 7E8056220064A7A

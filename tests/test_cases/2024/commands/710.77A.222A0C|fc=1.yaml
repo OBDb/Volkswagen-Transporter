@@ -1,0 +1,11 @@
+command_id: 710.77A.222A0C|fc=1
+test_cases:
+- expected_values:
+    TRANSPORTER_BAT_SOC: 46
+  response: 77A04622A0C2E
+- expected_values:
+    TRANSPORTER_BAT_SOC: 50
+  response: 77A04622A0C32
+- expected_values:
+    TRANSPORTER_BAT_SOC: 53
+  response: 77A04622A0C35

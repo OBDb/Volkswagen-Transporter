@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221007
+test_cases:
+- expected_values:
+    TRANSPORTER_PQ35_CAMS_START: 1125.2
+  response: 7E80562100715FA

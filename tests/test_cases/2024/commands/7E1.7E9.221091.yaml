@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221091
+test_cases:
+- expected_values:
+    TRANSPORTER_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G2: -1.81
+  response: 7E9056210914BFF

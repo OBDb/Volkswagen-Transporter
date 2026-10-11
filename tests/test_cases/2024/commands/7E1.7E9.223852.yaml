@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.223852
+test_cases:
+- expected_values:
+    TRANSPORTER_MQB_DQ250_ACUTAL_POS_GEAR_POSER_A: 0.17
+  response: '7E9056238521100'

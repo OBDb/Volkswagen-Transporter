@@ -1,0 +1,14 @@
+command_id: 710.77A.222A07|fc=1
+test_cases:
+- expected_values:
+    TRANSPORTER_BAT_V_2A07: 11.674
+  response: 77A05622A071DFA
+- expected_values:
+    TRANSPORTER_BAT_V_2A07: 11.679
+  response: 77A05622A071DFF
+- expected_values:
+    TRANSPORTER_BAT_V_2A07: 14.671
+  response: 77A05622A0729AF
+- expected_values:
+    TRANSPORTER_BAT_V_2A07: 14.723
+  response: 77A05622A0729E3
