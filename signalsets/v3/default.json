@@ -703,7 +703,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BE"}, "freq": 5, "dbgfilter": { "to": 2012, "years": [2014, 2015], "from": 2017 },
   "signals": [
-    {"id": "TRANSPORTER_PQ46_OIL_T_2", "path": "Engine", "fmt": { "len": 16, "max": 300, "min": -40, "div": 10, "sign": true, "unit": "celsius" }, "name": "Oil temperature variant", "suggestedMetric": "engineOilTemperature"}
+    {"id": "TRANSPORTER_PQ46_OIL_T_2", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "nullmin": -60, "nullmax": 200, "unit": "celsius" }, "name": "Oil temperature variant", "suggestedMetric": "engineOilTemperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BF"}, "freq": 1, "dbgfilter": { "to": 2012, "from": 2014 },
   "signals": [
