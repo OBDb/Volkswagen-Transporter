@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2211BE
 test_cases:
 - expected_values:
-    TRANSPORTER_PQ46_OIL_T_2: 286.4
+    TRANSPORTER_PQ46_OIL_T_2: 13.3
   response: 7E8056211BE0B30
 - expected_values:
-    TRANSPORTER_PQ46_OIL_T_2: 300
+    TRANSPORTER_PQ46_OIL_T_2: 33.5
   response: 7E8056211BE0BFA
 - expected_values:
-    TRANSPORTER_PQ46_OIL_T_2: 300
+    TRANSPORTER_PQ46_OIL_T_2: 60
   response: 7E8056211BE0D03
 - expected_values:
-    TRANSPORTER_PQ46_OIL_T_2: 300
+    TRANSPORTER_PQ46_OIL_T_2: 87.9
   response: 7E8056211BE0E1A
